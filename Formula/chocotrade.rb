@@ -5,7 +5,7 @@ class Chocotrade < Formula
   homepage "https://github.com/Edanflame/chocotrade"
   url "https://github.com/Edanflame/chocotrade/archive/refs/tags/v0.1.0.tar.gz"
   # 使用命令 `shasum -a 256 v0.1.0.tar.gz` 获取
-  sha256 "12e4c2d29a1a9b7e9879536160ce47c3dae8de9c374cdb71e51ad13cc0aa9f64"
+  sha256 "f0eeb504b7563f227a385f61e85a6b9e57cdf1734574a6a9714f35c83880aa31"
   license "Apache-2.0"
 
   depends_on "python@3.13"
