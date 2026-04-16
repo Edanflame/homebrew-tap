@@ -3,9 +3,9 @@ class Chocotrade < Formula
 
   desc "Chocotrade: gRPC Backend Service with macOS Menu Bar Integration"
   homepage "https://github.com/Edanflame/chocotrade"
-  url "https://github.com/Edanflame/chocotrade/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/Edanflame/chocotrade/archive/refs/tags/v0.1.1.tar.gz"
   # 使用命令 `shasum -a 256 v0.1.0.tar.gz` 获取
-  sha256 "f0eeb504b7563f227a385f61e85a6b9e57cdf1734574a6a9714f35c83880aa31"
+  sha256 "27ff6bc4b8647d857c338340b97b1ca318769fa4cc1e67f564216535d4887787"
   license "Apache-2.0"
 
   depends_on "python@3.13"
